@@ -1,0 +1,31 @@
+_repo: Les-Parsis_29109
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Vakil, Ratanbai Ardeshir
+    gutenberg_agent_id: '33699'
+    url: http://www.gutenberg.org/2009/agents/33699
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Menant, Delphine
+    birthdate: 1850
+    gutenberg_agent_id: '5614'
+    url: http://www.gutenberg.org/2009/agents/5614
+description: ''
+gutenberg_issued: '2009-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Parsees'
+- !lcsh 'Zoroastrianism'
+title: Les Parsis
+url: http://www.gutenberg.org/ebooks/29109
